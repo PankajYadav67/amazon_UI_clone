@@ -38,10 +38,13 @@ Run index.html file on browser
 
 ## Screenshots
 
+**Navbar:**
 ![App Screenshot](/public/Screenshot%20(155).png)
 
+**Hero Section:**
 ![App Screenshot](/public/Screenshot%20(156).png)
 
+**Footer:**
 ![App Screenshot](/public/Screenshot%20(157).png)
 
 

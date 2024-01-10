@@ -1,5 +1,5 @@
 
-![Logo](/amazon_logo.png)
+![Logo](/amazon_logo_readme.png)
 
 
 # Amazon India - Clone
@@ -11,7 +11,7 @@ Amazon is an online shopping website. Amazon offers variety of products ranging 
 
 ## Demo
 
-https://roaring-biscuit-218e07.netlify.app/
+https://amazon-clone-67.netlify.app/
 
 
 
@@ -25,7 +25,7 @@ https://roaring-biscuit-218e07.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/PankajYadav67/amazon.git
+  git clone https://github.com/PankajYadav67/amazon_clone.git
 ```
 
 Go to the project directory

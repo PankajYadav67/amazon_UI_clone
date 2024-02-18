@@ -2,7 +2,7 @@
 ![Logo](/amazon_logo_readme.png)
 
 
-# Amazon India - Clone
+# Amazon India (UI of homepage only) - Clone
 
 Amazon is an online shopping website. Amazon offers variety of products ranging from consumer electronics, clothes, baby product, pet care, toys, fashion trends clothing, footwear, Home & Kitchen, healthcare products. It has more than 168 mil products and 1 mil + brands in its catalogue.
 ## Authors
